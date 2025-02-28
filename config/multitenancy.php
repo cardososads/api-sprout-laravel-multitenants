@@ -121,7 +121,7 @@ return [
 
         'header' => [
             'driver' => 'header',
-            'header' => '{Tenancy}-Identifier',
+            'header' => '{Tenancy}',
         ],
     ],
 
